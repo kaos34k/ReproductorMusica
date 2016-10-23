@@ -1,0 +1,25 @@
+{
+	"songs": [
+		{
+			"id": 0,
+			"nombre": "The River ft. M. Shadows, Synyster Gates",
+			"artist": "Good Charlotte",
+			"song": "music/Good Charlotte - The River ft. M. Shadows, Synyster Gates.mp3",
+			"img":"" 
+		},
+		{
+			"id": 1,
+			"nombre": "Mr. Big - To Be With You",
+			"artist": "Mr. Big",
+			"song": "music/Mr. Big - To Be With You.mp3",
+			"img":"" 
+		},
+		{
+			"id": 2,
+			"nombre": "When Your Heart Stops Beating",
+			"artist": "+44",
+			"song": "music/44 - When Your Heart Stops Beating.mp3",
+			"img":"" 
+		}
+	]
+}
